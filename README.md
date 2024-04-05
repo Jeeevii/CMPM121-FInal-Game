@@ -1,6 +1,6 @@
 # Scene Flow Prototype
 
-Scene: https://jeeevii.github.io/CMPM120-Scene-Flow-Prototype/
+Scene: https://jeeevii.github.io/CMPM121-FInal-Game/
 
 Group Members:
 
